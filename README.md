@@ -44,7 +44,7 @@ Sử dụng Collider2D để xử lý va chạm giữa nhân vật, kẻ địch
 
 ## Video và hình ảnh gameplay
 
-(Bổ sung video và hình ảnh gameplay tại đây)
+https://drive.google.com/drive/folders/1YudDhtRvP7cXDie_pZNnxw3xgWYcV_BD?usp=sharing
 
 ## Phiên bản Unity
 
